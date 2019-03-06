@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestCalc", "InterestCalc\InterestCalc.csproj", "{5C24A421-B4A4-47B9-8F19-4B9D33151D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestCalcTest", "InterestCalcTest\InterestCalcTest.csproj", "{C95BB6CC-6068-4DC5-93B9-E26FD5778EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C24A421-B4A4-47B9-8F19-4B9D33151D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C24A421-B4A4-47B9-8F19-4B9D33151D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C24A421-B4A4-47B9-8F19-4B9D33151D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C24A421-B4A4-47B9-8F19-4B9D33151D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95BB6CC-6068-4DC5-93B9-E26FD5778EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95BB6CC-6068-4DC5-93B9-E26FD5778EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95BB6CC-6068-4DC5-93B9-E26FD5778EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95BB6CC-6068-4DC5-93B9-E26FD5778EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93B3D0C2-076D-4D6D-A4AF-FCA1D0B1B77F}
+	EndGlobalSection
+EndGlobal
